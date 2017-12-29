@@ -4,6 +4,7 @@ This is the primary repository for HTML WebSocket compatibility in Monkey2. This
 to communicate with a properly setup WebSocket server from a Monkey2 application. Currently, this module only supports
 the Emscripten export and has only been tested with WASM selection. 
 
+_video:_
 [ ![WebSockets demo](https://cf-b2.streamablevideo.com/image/mpgf5.jpg?token=1514516418-lWnY%2FakjVLVdmNWu%2BvmC6sIyAwFm8QNXXbPcuBoKf%2FQ%3D.png) ](https://streamable.com/s/mpgf5/evnwka)
 ## Getting Started
 
@@ -47,6 +48,7 @@ Method OnClose() Override ' We can start closing things up or reacting to a disc
   AddMessage("Socket terminated!")
 End
 ```
+
 
 ## Contributing
 
