@@ -57,7 +57,7 @@ Please do fork, please do comment, please do add tickets, please do offer sugges
 
 ## Authors
 
-* **Abe Noll** - *Initial work* - [Forgotten King](https://github.com/forgotten-king)
+* **Ghouly** - *Initial work* - [Forgotten King](https://github.com/ghouly-the-ghost)
 
 ## License
 
