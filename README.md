@@ -5,7 +5,7 @@ to communicate with a properly setup WebSocket server from a Monkey2 application
 the Emscripten export and has only been tested with WASM selection. 
 
 _video:_
-[ ![WebSockets demo](https://cf-b2.streamablevideo.com/image/mpgf5.jpg?token=1514516418-lWnY%2FakjVLVdmNWu%2BvmC6sIyAwFm8QNXXbPcuBoKf%2FQ%3D.png) ](https://streamable.com/s/mpgf5/evnwka)
+[WebSockets demo](https://streamable.com/s/mpgf5/evnwka)
 ## Getting Started
 
 - download this repository as a zip
